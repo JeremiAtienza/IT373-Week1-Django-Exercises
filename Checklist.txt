@@ -1,0 +1,19 @@
+✔ Set up a new folder for the project and opened it in VS Code
+✔ Created and activated a virtual environment for Django
+✔ Installed Django inside the environment
+✔ Verified the Django version was correct
+✔ Started a Django project named config
+✔ Launched the development server and confirmed the welcome page appeared
+✔ Initialized Git and pushed the project to a GitHub repository
+✔ Generated an app named core
+✔ Added core to the list of INSTALLED_APPS in settings
+✔ Set the root URL to call this view
+✔ Opened the browser to check the result
+✔ Created a templates directory with base.html and home.html
+✔ Added a view that renders home.html with a page title
+✔ Updated the URL configuration to include the home view
+✔ Verified that the home page displayed correctly
+✔ Designed an About page with a button or link
+✔ Displayed my student ID and full name on the About page
+✔ Configured a URL and view for the About page
+✔ Confirmed the About page worked as expected.
